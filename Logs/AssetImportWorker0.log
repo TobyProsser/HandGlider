@@ -1,0 +1,169 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1083; Version 2009; 64bit' Language: 'en' Physical Memory: 32657 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Game Design/2020 Games/HandGlider
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63348
+Successfully changed project path to: E:/Game Design/2020 Games/HandGlider
+E:/Game Design/2020 Games/HandGlider
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Game Design/2020 Games/HandGlider/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   27.21.14.6140
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001360 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 146.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.630 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003205 seconds.
+Begin MonoManager ReloadAssembly
+Error: Could not load signature of UnityEngine.Advertisements.Editor.PostProcessBuildPlist:PlistContainsAdNetworkId due to: Could not load file or assembly 'UnityEditor.iOS.Extensions.Xcode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:UnityEditor.iOS.Extensions.Xcode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+Unloading broken assembly Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll, this assembly can cause crashes in the runtime
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+UnityIAP: [InitializeOnLoad] Facebook Check
+UnityIAP: Runtime [2020.3.1f1]
+UnityIAP: Current Build is iPhone:StandaloneWindows
+UnityIAP: stub FacebookStore.dll enabled
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3196 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.2 MB.
+System memory in use after: 136.4 MB.
+
+Unloading 63 unused Assets to reduce memory usage. Loaded Objects now: 3608.
+Total: 1.857500 ms (FindLiveObjects: 0.273500 ms CreateObjectMapping: 0.151100 ms MarkObjects: 1.377100 ms  DeleteObjects: 0.055300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/FireBall.prefab
+  artifactKey: Guid(36eb9bcdaf58e874bbc425cc663b378b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/FireBall.prefab using Guid(36eb9bcdaf58e874bbc425cc663b378b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6c12d8f02dcc0d7059f376c85e7c99') in 0.035408 seconds
+  Import took 0.038872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(f8536b9cdce805a409aa949801a7bf58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(f8536b9cdce805a409aa949801a7bf58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e27c36310ca0c065d3e7feabc70e55d') in 0.123688 seconds
+  Import took 0.127392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Prefabs/BlueExplosion.prefab
+  artifactKey: Guid(9e8de66bec6f0a94c8b4d748cdd3c0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BlueExplosion.prefab using Guid(9e8de66bec6f0a94c8b4d748cdd3c0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1feca3180a116401e54d83f622f9326c') in 0.004898 seconds
+  Import took 0.008353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Prefabs/FireExplosion.prefab
+  artifactKey: Guid(cc0a60632206ba741bb0b42da1fcc033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/FireExplosion.prefab using Guid(cc0a60632206ba741bb0b42da1fcc033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a136210b9be051f8838b4f33d117898') in 0.005168 seconds
+  Import took 0.008563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Prefabs/Cloud1.prefab
+  artifactKey: Guid(792a11cf7fd921f418386cece071b380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cloud1.prefab using Guid(792a11cf7fd921f418386cece071b380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d94e4f7a504d413fe934a8ce7b32d08') in 0.012708 seconds
+  Import took 0.016246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(7a61444f4a6bf3b4c9743e8365731a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(7a61444f4a6bf3b4c9743e8365731a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18d10e477c5bf09574aa205e20e24770') in 0.036296 seconds
+  Import took 0.039703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Prefabs/ChillPlayer.prefab
+  artifactKey: Guid(fc0f62ab757b0dd4d8df8d10ac675d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ChillPlayer.prefab using Guid(fc0f62ab757b0dd4d8df8d10ac675d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4643e8d8408985c14cac5d0baf785ff') in 0.032172 seconds
+  Import took 0.035533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Prefabs/RockSpike.prefab
+  artifactKey: Guid(b01d9535f343b494f8c70967c4bdf694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/RockSpike.prefab using Guid(b01d9535f343b494f8c70967c4bdf694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad773610f2483912c02674492f04017') in 0.018784 seconds
+  Import took 0.022103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Prefabs/BlueFire.prefab
+  artifactKey: Guid(6aa474075c2ad3b428f0515fabc27b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BlueFire.prefab using Guid(6aa474075c2ad3b428f0515fabc27b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2cf87e50088fb2c7b9fed360bf420c9') in 0.005510 seconds
+  Import took 0.009029 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 6.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 50 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 3673.
+Total: 2.112000 ms (FindLiveObjects: 0.251700 ms CreateObjectMapping: 0.136300 ms MarkObjects: 1.691600 ms  DeleteObjects: 0.031100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
